@@ -26,8 +26,7 @@ This is a Streamlit-based application that allows users to upload documents (PDF
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/document-chat-app.git
-   cd document-chat-app
+   git clone https://github.com/SAMUDRAGUPTA002/RAG_chat_app.git
    ```
 
 2. **Install dependencies:**
